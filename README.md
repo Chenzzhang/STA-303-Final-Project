@@ -7,10 +7,6 @@ This repo contains the data and output on the topic of gender parity in hiring, 
 * [Current Employee](#Current_Employee)
 
 ## Hirng Phase
-* [Phase 1](#Phase_1)
-* [Phase 2](#Phase_2)
-* [Phase 3](#Phase_3)
-* [Final Hires](#Final_Hires)
 
 ### Phase 1
 applicant_id: A unique ID assigned to applicants in Phase 1
@@ -47,6 +43,16 @@ autograded
 
 leadership_presence: A rating of ‘leadership presence’ based on pre-recorded video, AI
 autograded
+
+### Phase 3
+applicant_id: A unique ID assigned to applicants in Phase 1
+interviewer_rating_1: The overall rating of job fit given by thefirst interviewer on a scale of
+0 to 100
+interviewer_rating_2: The overall rating of job fit given by the second interviewer on a scale
+of 0 to 100
+
+### Final hires
+applicant_id: A unique ID assigned to applicants in Phase 1
 
 ## Current Employee
 * [Promotion](#Promotion)
