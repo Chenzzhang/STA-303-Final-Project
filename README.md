@@ -3,12 +3,12 @@ This repo contains the data and output on the topic of gender parity in hiring, 
 
 
 # Table of Contents
-* [Hiring Phase](#Hiring_Phase)
-  + [Phase 1](#Phase_1)
-  + [Phase 2](#Phase_2)
-  + [Phase 3](#Phase_3)
-  + [Final hires](#Final_hires)
-* [Current Employee](#Current_Employee)
+* Hiring Phase
+  + Phase 1
+  + Phase 2
+  + Phase 3
+  + Final hires
+* Current Employee
 
 ## Hirng Phase
 
