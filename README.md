@@ -7,10 +7,10 @@ This repo contains the data and output on the topic of gender parity in hiring, 
 * [Salary](#Salary)
 * [Promotion](#Promotion)
 
-## Preparation Stage
+## Hring Phase
 
-## Data Wrangling
+## Salary
 
-## Statistical Method
+## Promotion
 
-## Analytical Conclusions
+
