@@ -61,7 +61,27 @@ of 0 to 100
 applicant_id: A unique ID assigned to applicants in Phase 1
 
 ## Current Employee
-* [Promotion](#Promotion)
-* [Salary](#Salary)
+employee_id: 5 digit unique identifier for each employee
+
+gender: Gender of employee: ‘Man’, ‘Woman’, ‘Prefer not to say’
+
+team: Which one of the 8 teams the employee works for
+financial_q Financial quarter salary, leadership and productivity
+
+role_seniority: Least senior to most senior: “Entry-level”,“Junior I”,“Junior
+II”,“Senior I”,“Senior II”,“Senior III”,“Manager”, “Director”,“Vice
+president”
+
+leadership_for_level: Quality of demonstrated leadership, taking into account role level
+(i.e. “Appropriate for level” requires much less for entry-level
+employees than for a manager)
+
+productivity: work output in relation to job description, rated on a 0-100 scale with
+50 being satisfactory and above 50 indicating better than expected
+productivity
+
+salary: Salary at at the given financial quarter (note: these are effective
+yearly values for the current wage, but don’t take in to account
+previous salary steps in the same year, etc.)
 
 
