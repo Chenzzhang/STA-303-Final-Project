@@ -14,16 +14,22 @@ This repo contains the data and output on the topic of gender parity in hiring, 
 
 ### Phase 1
 applicant_id: A unique ID assigned to applicants in Phase 1
+
 team_applied_for: Software or Data
+
 cover_letter: 0 if absent, 1 if present
+
 cv: 0 if absent, 1 if present
+
 gender: ‘Man’, ‘Woman’, ‘Prefer not to say’ only options provided
+
 extracurriculars: The description of extracurricular involement is assessed against a
 proprietary key term and phrase bank and given a 0, 1 or 2 for where
 2 indicates several high relevenace and/or skills building
 extracurriculars, 1 indicates some relevant and/or skills building
 extracurriculars and 0 indicates no extracurriculars describes or that
 those describe were not rated as high relevance or high skills building
+
 work_experience: Similar to extracurriculars, the description applicants provided is
 assessed against a proprietary key term and phrase bank, that also
 consideres company names and reputations, to give a 0, 1 or 2 score,
