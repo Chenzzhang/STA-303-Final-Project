@@ -14,16 +14,22 @@ This repo contains the data and output on the topic of gender parity in hiring, 
 
 ### Phase 1
 * applicant_id: A unique ID assigned to applicants in Phase 1
+
 * team_applied_for: Software or Data
+
 * cover_letter: 0 if absent, 1 if present
+
 * cv: 0 if absent, 1 if present
+
 * gender: ‘Man’, ‘Woman’, ‘Prefer not to say’ only options provided
+
 * extracurriculars: The description of extracurricular involement is assessed against a
 proprietary key term and phrase bank and given a 0, 1 or 2 for where
 2 indicates several high relevenace and/or skills building
 extracurriculars, 1 indicates some relevant and/or skills building
 extracurriculars and 0 indicates no extracurriculars describes or that
 those describe were not rated as high relevance or high skills building
+
 * work_experience: Similar to extracurriculars, the description applicants provided is
 assessed against a proprietary key term and phrase bank, that also
 consideres company names and reputations, to give a 0, 1 or 2 score,
@@ -43,38 +49,38 @@ autograded
 autograded
 
 ### Phase 3
-applicant_id: A unique ID assigned to applicants in Phase 1
+* applicant_id: A unique ID assigned to applicants in Phase 1
 
-interviewer_rating_1: The overall rating of job fit given by thefirst interviewer on a scale of
+* interviewer_rating_1: The overall rating of job fit given by thefirst interviewer on a scale of
 0 to 100
 
-interviewer_rating_2: The overall rating of job fit given by the second interviewer on a scale
+* interviewer_rating_2: The overall rating of job fit given by the second interviewer on a scale
 of 0 to 100
 
 ### Final hires
-applicant_id: A unique ID assigned to applicants in Phase 1
+* applicant_id: A unique ID assigned to applicants in Phase 1
 
 ## Current Employee
-employee_id: 5 digit unique identifier for each employee
+* employee_id: 5 digit unique identifier for each employee
 
-gender: Gender of employee: ‘Man’, ‘Woman’, ‘Prefer not to say’
+* gender: Gender of employee: ‘Man’, ‘Woman’, ‘Prefer not to say’
 
-team: Which one of the 8 teams the employee works for
+* team: Which one of the 8 teams the employee works for
 financial_q Financial quarter salary, leadership and productivity
 
-role_seniority: Least senior to most senior: “Entry-level”,“Junior I”,“Junior
+* role_seniority: Least senior to most senior: “Entry-level”,“Junior I”,“Junior
 II”,“Senior I”,“Senior II”,“Senior III”,“Manager”, “Director”,“Vice
 president”
 
-leadership_for_level: Quality of demonstrated leadership, taking into account role level
+* leadership_for_level: Quality of demonstrated leadership, taking into account role level
 (i.e. “Appropriate for level” requires much less for entry-level
 employees than for a manager)
 
-productivity: work output in relation to job description, rated on a 0-100 scale with
+* productivity: work output in relation to job description, rated on a 0-100 scale with
 50 being satisfactory and above 50 indicating better than expected
 productivity
 
-salary: Salary at at the given financial quarter (note: these are effective
+* salary: Salary at at the given financial quarter (note: these are effective
 yearly values for the current wage, but don’t take in to account
 previous salary steps in the same year, etc.)
 
