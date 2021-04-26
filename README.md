@@ -6,7 +6,7 @@ This repo contains the data and output on the topic of gender parity in hiring, 
 * [Hiring Phase](#Hiring_Phase)
 * [Current Employee](#Current_Employee)
 
-## Hring Phase
+## Hirng Phase
 
 ## Current Employee
 
