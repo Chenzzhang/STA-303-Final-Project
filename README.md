@@ -11,6 +11,10 @@ This repo contains the data and output on the topic of gender parity in hiring, 
 * [Phase 2](#Phase_2)
 * [Phase 3](#Phase_3)
 * [Final Hires](#Final_Hires)
+
+### Phase 1
+applicant_id:A unique ID assigned to applicants in Phase 1
+
 ## Current Employee
 * [Promotion](#Promotion)
 * [Salary](#Salary)
