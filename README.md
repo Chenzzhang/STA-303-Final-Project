@@ -3,7 +3,7 @@ This repo contains the data and output on the topic of gender parity in hiring, 
 
 
 # Table of Contents
-* [Hiring Phase](#Hiring Phase)
+* [Hiring Phase](#Hiring_Phase)
 * [Salary](#Salary)
 * [Promotion](#Promotion)
 
