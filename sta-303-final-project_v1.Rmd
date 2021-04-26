@@ -832,7 +832,7 @@ salary_analysis <- data %>%
   filter(gender != 'Prefer not to say') 
 ```
 
-```{r, include=TRUE, echo=FALSE, warning=FALSE, message=FALSE}
+```{r, include=TRUE, echo=FALSE, warning=FALSE,  message=FALSE}
 fixed_team <- lmer(salary ~ gender + (1|employee_id) + (1|team), data = salary_analysis)
 fe <- data.frame("Values" = fixef(fixed_team))
 knitr::kable(fe, caption = "Fixed effects coefficients")%>%
