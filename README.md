@@ -1,9 +1,13 @@
 # STA-303-Final-Project
-This repo contains the data and output on the topic of gender parity in hiring, wages and promotion based on hiring and employee data.
+This repo contains the data and output on the topic of gender parity in hiring, wages and promotion based on hiring and employee data. Relevent Variables in data are introduced below. For detailed information, please refer to the output sta-303-final-project_v1.pdf.
 
 
 # Table of Contents
 * [Hiring Phase](#Hiring_Phase)
+  + [Phase 1](#Phase_1)
+  + [Phase 2](#Phase_2)
+  + [Phase 3](#Phase_3)
+  + [Final hires](#Final_hires)
 * [Current Employee](#Current_Employee)
 
 ## Hirng Phase
