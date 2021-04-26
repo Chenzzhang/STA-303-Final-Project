@@ -35,6 +35,19 @@ assessed against a proprietary key term and phrase bank, that also
 consideres company names and reputations, to give a 0, 1 or 2 score,
 with 2 being the best, 0 the worst
 
+### Phase 2
+applicant_id: A unique ID assigned to applicants in Phase 1
+
+technical_skills: Score from 0 to 100 on a timed technical task, AI autograded
+
+writing_skills: Score from 0 to 100 on a timed writing task, AI autograded
+
+speaking_skills: A rating of speaking ability based on pre-recorded video, AI
+autograded
+
+leadership_presence: A rating of ‘leadership presence’ based on pre-recorded video, AI
+autograded
+
 ## Current Employee
 * [Promotion](#Promotion)
 * [Salary](#Salary)
