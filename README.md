@@ -4,13 +4,11 @@ This repo contains the data and output on the topic of gender parity in hiring, 
 
 # Table of Contents
 * [Hiring Phase](#Hiring_Phase)
-* [Salary](#Salary)
-* [Promotion](#Promotion)
+* [Current Employee](#Current_Employee)
 
 ## Hring Phase
 
-## Salary
+## Current Employee
 
-## Promotion
 
 
