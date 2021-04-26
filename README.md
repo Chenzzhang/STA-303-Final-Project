@@ -46,8 +46,10 @@ autograded
 
 ### Phase 3
 applicant_id: A unique ID assigned to applicants in Phase 1
+
 interviewer_rating_1: The overall rating of job fit given by thefirst interviewer on a scale of
 0 to 100
+
 interviewer_rating_2: The overall rating of job fit given by the second interviewer on a scale
 of 0 to 100
 
