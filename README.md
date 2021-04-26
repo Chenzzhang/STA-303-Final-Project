@@ -7,8 +7,12 @@ This repo contains the data and output on the topic of gender parity in hiring, 
 * [Current Employee](#Current_Employee)
 
 ## Hirng Phase
-
+* [Phase 1](#Phase_1)
+* [Phase 2](#Phase_2)
+* [Phase 3](#Phase_3)
+* [Final Hires](#Final_Hires)
 ## Current Employee
-
+* [Promotion](#Promotion)
+* [Salary](#Salary)
 
 
