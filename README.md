@@ -1,5 +1,4 @@
 # STA-303-Final-Project
-# STA303-Final-Assignment
 This repo contains the data and output on the topic of gender parity in hiring, wages and promotion based on hiring and employee data.
 
 
