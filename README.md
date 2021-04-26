@@ -3,10 +3,9 @@ This repo contains the data and output on the topic of gender parity in hiring, 
 
 
 # Table of Contents
-* [Preparation Stage](#Preparation-Stage)
-* [Data wrangling](#Data-wrangling)
-* [Statistical Methods](#Statistical-Methods)
-* [Analytical Conclusions](#Analytical-Conclusions)
+* [Hiring Phase](#Hiring Phase)
+* [Salary](#Salary)
+* [Promotion](#Promotion)
 
 ## Preparation Stage
 
